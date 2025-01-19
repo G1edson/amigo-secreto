@@ -68,3 +68,12 @@ function sortearAmigo() {
     atualizarLista();
 }
 ```
+### Adicionar amigos na lista
+Tela que mostra onde adicionar amigos
+![image](https://github.com/user-attachments/assets/997439e1-0ba4-46cc-a929-1c2e1259e6ec)
+
+### Sortear amigo secreto
+![image](https://github.com/user-attachments/assets/7c8f278c-5cea-45e5-88fc-b0566ed31d89)
+Após o sorteio Angelica saiu da lista
+![image](https://github.com/user-attachments/assets/96a1189f-e297-4a1b-ba63-8e24854864ce)
+
